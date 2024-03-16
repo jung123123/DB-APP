@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB-APP", "DB-APP\DB-APP.csproj", "{BB3FC6AA-29F7-41DC-A647-963A0D766D9D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "dbApp", "dbApp\dbApp.vdproj", "{135E94CF-D12A-4939-A78F-4DB7C67A8BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB3FC6AA-29F7-41DC-A647-963A0D766D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3FC6AA-29F7-41DC-A647-963A0D766D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3FC6AA-29F7-41DC-A647-963A0D766D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3FC6AA-29F7-41DC-A647-963A0D766D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135E94CF-D12A-4939-A78F-4DB7C67A8BAA}.Debug|Any CPU.ActiveCfg = Debug
+		{135E94CF-D12A-4939-A78F-4DB7C67A8BAA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487B77F2-AF21-40D2-9A12-952B4C066315}
+	EndGlobalSection
+EndGlobal
